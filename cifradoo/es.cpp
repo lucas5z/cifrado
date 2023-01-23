@@ -114,14 +114,3 @@ int main(){
     return 0;
 }
 
-/* cout<<"\n";
-    cout<<"----------------"<<endl;
-    for(int i=0;i<longitud;i++){
-        cout<<aux1[i]<<"=>"<<i+1<<endl;
-    }
-    cout<<"\n";
-    cout<<"----------------"<<endl;
-    for(int i=0;i<longitud;i++){
-        cout<<auxx[i]<<"=>"<<i+1<<endl;
-    }
-     */

@@ -119,7 +119,7 @@ int main(){
             cout<<abc[numer-n-1];
             aux1[i]=numer-n;
         }
-          //E	 U	C	A	L	I	P	T	O	B	D	F	G	H	J	K	M	N	Q	R	S	V	W	X	Y	Z
+          
                                                 
 	}
     cout<<"\n";
